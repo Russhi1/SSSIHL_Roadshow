@@ -174,7 +174,7 @@ eog designs/picorv32a/runs/{press tab as it varies from device to device}/result
 
 * Once CTS is complete, the next step is routing. This is where the tool connects all the cells using metal layers, creating the physical interconnections that make up the logic and clock paths of the design.We do this by running the following code:
  ```
-run_route
+run_routing
 ```
 
                   
